@@ -1,6 +1,6 @@
 # Uno Platform Succinctly
 
-This is the companion repo for [*Uno Platform Succinctly*](https://www.syncfusion.com/succinctly-free-ebooks) by Ed Freitas. Published by Syncfusion.
+This is the companion repo for [*Uno Platform Succinctly*](https://www.syncfusion.com/succinctly-free-ebooks/uno-platform-succinctly) by Ed Freitas. Published by Syncfusion.
 
 [![cover](https://github.com/SyncfusionSuccinctlyE-Books/Uno-Platform-Succinctly/blob/main/cover.png)](https://www.syncfusion.com/succinctly-free-ebooks)
 
